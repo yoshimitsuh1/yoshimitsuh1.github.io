@@ -1,0 +1,12 @@
+yoshimitsuh1.github.io
+
+https://yoshimitsuh1.github.io/scratch-gui
+
+
+git init
+git add .
+git commit -m "message"
+git remote add origin https://github.com/yoshimitsuh1/yoshimitsuh1.github.io.git
+git push -u origin master
+
+https://yoshimitsuh1.github.io/
